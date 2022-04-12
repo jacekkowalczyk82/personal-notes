@@ -94,7 +94,7 @@ https://www.youtube.com/watch?v=6G19kFcVXTo&
 * https://training.linuxfoundation.org/full-catalog/?_sft_product_type=training
 
 
-### SRE - Site Reliability Engineering book 
+## SRE - Site Reliability Engineering book 
 
 * https://sre.google/sre-book/monitoring-distributed-systems/
 * https://sre.google/workbook/implementing-slos/
@@ -107,12 +107,12 @@ https://www.youtube.com/watch?v=6G19kFcVXTo&
 * [ ] https://sre.google/sre-book/table-of-contents/
 
 
-### SRE linked in with no fluff jobs 
+## SRE linked in with no fluff jobs 
 
 * https://www.linkedin.com/video/live/urn:li:ugcPost:6808377475186356224/
 
 
-### Kubernetes 
+## Kubernetes 
 
 * https://livebook.manning.com/book/kubernetes-in-action/chapter-1/1
 * https://livebook.manning.com/book/kubernetes-in-action-second-edition/welcome/v-6/
@@ -124,7 +124,8 @@ https://www.youtube.com/watch?v=6G19kFcVXTo&
 * https://kubernetes.io/docs/tasks/configure-pod-container/configure-pod-configmap/
 * https://kubernetes.io/docs/concepts/services-networking/dns-pod-service/
 
-* [Nena Tech World - Kubernetes List](https://www.youtube.com/playlist?list=PLy7NrYWoggjziYQIDorlXjTvvwweTYoNC)
+* [Nana Tech World - Kubernetes List](https://www.youtube.com/playlist?list=PLy7NrYWoggjziYQIDorlXjTvvwweTYoNC)
+* [Nana Tech World Kubernetes Crash Course](https://www.youtube.com/watch?v=s_o8dwzRlu4)
 
 * https://www.youtube.com/watch?v=EQNO_kM96Mo
 
@@ -141,6 +142,21 @@ https://www.youtube.com/watch?v=6G19kFcVXTo&
 * O'Reilly Interactive | Launch Single Node Kubernetes Cluster - https://learning.oreilly.com/scenarios/launch-a-single/9781492062066/ 
 
 * https://www.kubernetesmasters.pl/?gclid=Cj0KCQjwlOmLBhCHARIsAGiJg7kLFSk2nqcRW57ofPZFY-NtaFpTp6Wdy9Jh55VUqViUNr5v_IrtDFkaAmalEALw_wcB
+
+## Nana Tech Wold
+
+* [Service mesh](https://www.youtube.com/watch?v=16fgzklcF7Y)
+
+## Openshift 
+
+* https://cloud.redhat.com/learn/what-is-openshift
+* https://www.redhat.com/en/technologies/cloud-computing/openshift
+* https://docs.openshift.com/
+* https://www.youtube.com/watch?v=Ut2IA4bA-g8
+* https://www.youtube.com/watch?v=GqpnCrJnqTc
+* https://www.youtube.com/watch?v=kOjmmstohuI
+
+
 
 ## Podman 
 
