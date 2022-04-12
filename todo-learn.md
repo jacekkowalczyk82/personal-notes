@@ -154,6 +154,8 @@ https://www.youtube.com/watch?v=6G19kFcVXTo&
 * https://docs.openshift.com/
 * https://www.youtube.com/watch?v=Ut2IA4bA-g8
 * [Lista KodeKloud](https://www.youtube.com/watch?v=ykx8gAD9vAw&list=PL2We04F3Y_43DDcvM1bAxF7YIPglrMdif)
+* https://kodekloud.com/courses/openshift-for-the-absolute-beginners/
+
 * https://www.youtube.com/watch?v=GqpnCrJnqTc
 * https://www.youtube.com/watch?v=kOjmmstohuI
 
