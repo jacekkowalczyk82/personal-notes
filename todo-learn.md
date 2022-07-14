@@ -41,6 +41,8 @@ https://github.dev/jacekkowalczyk82/personal-notes/blob/master/todo-learn.md
 * [ ] microprofile
 * [ ] graalvm
 * [ ] helidon 
+* [ ] Payara Micro
+* [ ] Open Liberty
 
 ## Not strictly related to what I do in work
 
@@ -54,6 +56,47 @@ https://github.dev/jacekkowalczyk82/personal-notes/blob/master/todo-learn.md
 * https://airhacks.live/
 * Server less , Micronaut, quarkus, microprofile, graalvm, helidon
 * fat functions aws, azure blog - Frank Mathy 
+
+* https://micronaut.io/ - A MODERN, JVM-BASED, FULL-STACK FRAMEWORK FOR BUILDING MODULAR, EASILY TESTABLE MICROSERVICE AND SERVERLESS APPLICATIONS, 
+* https://docs.micronaut.io/latest/guide/
+* https://quarkus.io/get-started/
+A Kubernetes Native Java stack tailored for OpenJDK HotSpot and GraalVM, crafted from the best of breed Java libraries and standards.
+* https://microprofile.io/ - Optimizing Enterprise Java for a Microservices Architecture
+* https://github.com/eclipse/microprofile/releases/tag/5.0
+* https://start.microprofile.io/
+* [Helidon](https://helidon.io/) - Lightweight. Fast. Crafted for Microservices. Helidon is a cloud-native, open‑source set of Java libraries for writing microservices that run on a fast web core powered by Netty.
+* https://helidon.io/docs/v2/#/about/03_prerequisites
+* https://www.graalvm.org/ - High Performanсe. Cloud Native. Polyglot.
+* https://www.graalvm.org/22.1/docs/getting-started/
+
+
+## Stack to try 1
+
+* SDKman.io 
+* maven, gradle
+* GraalVM
+* Docker
+* Minikube or Docker Desktop
+* Quarkus
+
+## Stack to try 2
+
+* SDKman.io 
+* maven, gradle
+* GraalVM
+* Docker
+* Minikube or Docker Desktop
+* Helidon
+* Microprofile
+
+## Stack to try 3
+
+* SDKman.io 
+* maven, gradle
+* GraalVM
+* Docker
+* Minikube or Docker Desktop
+* Micronaut
 
 
 ## Java 
