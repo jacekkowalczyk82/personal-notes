@@ -1,5 +1,8 @@
 # TODO , get knowledge or learn
 
+https://github.dev/jacekkowalczyk82/personal-notes/blob/master/todo-learn.md
+
+
 ## Tools 
 
 * [x] git
@@ -33,6 +36,11 @@
 * [ ] minikube
 * [ ] LXD/LXC containers
 * [ ] podman containers
+* [ ] https://micronaut.io/
+* [ ] https://quarkus.io/get-started/
+* [ ] microprofile
+* [ ] graalvm
+* [ ] helidon 
 
 ## Not strictly related to what I do in work
 
@@ -41,6 +49,11 @@
 * [ ] Rust programing language 
 * [ ] Unix and network programing 
 
+## Light services as alternative to the SpringBoot
+
+* https://airhacks.live/
+* Server less , Micronaut, quarkus, microprofile, graalvm, helidon
+* fat functions aws, azure blog - Frank Mathy 
 
 
 ## Java 
