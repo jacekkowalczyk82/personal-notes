@@ -348,5 +348,9 @@ https://www.youtube.com/watch?v=6G19kFcVXTo&
   * https://bykowski.pl/programowanie-funkcyjne-w-java-gladkie-wejscie/
   * https://github.com/bykowski/functional-programming
 
+### Free Ebooks
+
+* https://github.com/EbookFoundation/free-programming-books
+* https://ebookfoundation.github.io/free-programming-books/books/free-programming-books-langs.html
 
 
