@@ -199,6 +199,12 @@ https://www.youtube.com/watch?v=6G19kFcVXTo&
 
 * https://www.kubernetesmasters.pl/?gclid=Cj0KCQjwlOmLBhCHARIsAGiJg7kLFSk2nqcRW57ofPZFY-NtaFpTp6Wdy9Jh55VUqViUNr5v_IrtDFkaAmalEALw_wcB
 
+* https://www.tutorialworks.com/learn-kubernetes-online/#best-kubernetes-books
+* https://www.tutorialworks.com/learn-kubernetes-online/
+* https://www.spiceworks.com/tech/devops/articles/top-five-kubernetes-platforms/
+* https://www.bunnyshell.com/blog/best-kubernetes-cloud-providers
+
+
 ## Nana Tech Wold
 
 * [Service mesh](https://www.youtube.com/watch?v=16fgzklcF7Y)
