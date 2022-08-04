@@ -73,6 +73,11 @@ A Kubernetes Native Java stack tailored for OpenJDK HotSpot and GraalVM, crafted
 * https://www.graalvm.org/22.1/docs/getting-started/
 
 
+## Which Framework to Use
+
+* https://todomvc.com/ - Helping you select an MV* framework
+* http://todobackend.com/ -  a shared example to showcase backend tech stacks
+
 ## Stack to try 1
 
 * SDKman.io 
