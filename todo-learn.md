@@ -61,6 +61,9 @@ https://github.dev/jacekkowalczyk82/personal-notes/blob/master/todo-learn.md
 * https://docs.micronaut.io/latest/guide/
 * https://quarkus.io/get-started/
 A Kubernetes Native Java stack tailored for OpenJDK HotSpot and GraalVM, crafted from the best of breed Java libraries and standards.
+* https://www.infoq.com/articles/native-java-quarkus/
+
+
 * https://microprofile.io/ - Optimizing Enterprise Java for a Microservices Architecture
 * https://github.com/eclipse/microprofile/releases/tag/5.0
 * https://start.microprofile.io/
