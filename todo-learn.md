@@ -333,20 +333,20 @@ https://www.youtube.com/watch?v=6G19kFcVXTo&
 
 # testing web with Spring Boot
 
-https://spring.io/guides/gs/testing-web/#initial
-https://start.spring.io/
-https://github.com/spring-guides/gs-testing-web
-https://spring.io/guides/gs/sts/
-https://marketplace.visualstudio.com/items?itemName=Pivotal.vscode-boot-dev-pack
+* https://spring.io/guides/gs/testing-web/#initial
+* https://start.spring.io/
+* https://github.com/spring-guides/gs-testing-web
+* https://spring.io/guides/gs/sts/
+* https://marketplace.visualstudio.com/items?itemName=Pivotal.vscode-boot-dev-pack
 
 
-https://www.udemy.com/course/spring-web-services-tutorial/?matchtype=b&utm_campaign=LongTail_la.EN_cc.ROW&utm_content=deal4584&utm_medium=udemyads&utm_source=adwords&utm_term=_._ag_80675514442_._ad_535193860462_._kw_%2Bspring+%2Bboot+%2Btraining_._de_c_._dm__._pl__._ti_kwd-351297601585_._li_9044403_._pd__._
-https://spring.io/training
-https://www.udemy.com/course/spring-cloud-microservices-workshop/
-https://github.com/dakbhavesh/spring-boot-workshop
-https://spring.io/learn
-https://www.baeldung.com/spring-boot
-https://medium.com/javarevisited/top-10-courses-to-learn-spring-boot-in-2020-best-of-lot-6ffce88a1b6e
+* https://www.udemy.com/course/spring-web-services-tutorial/?matchtype=b&utm_campaign=LongTail_la.EN_cc.ROW&utm_content=deal4584&utm_medium=udemyads&utm_source=adwords&utm_term=_._ag_80675514442_._ad_535193860462_._kw_%2Bspring+%2Bboot+%2Btraining_._de_c_._dm__._pl__._ti_kwd-351297601585_._li_9044403_._pd__._
+* https://spring.io/training
+* https://www.udemy.com/course/spring-cloud-microservices-workshop/
+* https://github.com/dakbhavesh/spring-boot-workshop
+* https://spring.io/learn
+* https://www.baeldung.com/spring-boot
+* https://medium.com/javarevisited/top-10-courses-to-learn-spring-boot-in-2020-best-of-lot-6ffce88a1b6e
 
 
 
