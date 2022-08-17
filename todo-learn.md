@@ -331,6 +331,10 @@ https://www.youtube.com/watch?v=6G19kFcVXTo&
 * https://learning.oreilly.com/library/view/spring-boot-up/9781492076971/ch08.html#idm45766452718568
 
 
+## Spring tools 
+
+* https://spring.io/tools
+ 
 # testing web with Spring Boot
 
 * https://spring.io/guides/gs/testing-web/#initial
