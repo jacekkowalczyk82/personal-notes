@@ -213,7 +213,7 @@ https://www.youtube.com/watch?v=6G19kFcVXTo&
 * https://www.bunnyshell.com/blog/best-kubernetes-cloud-providers
 
 
-## Nana Tech Wold
+## Nana Tech World
 
 * [Service mesh](https://www.youtube.com/watch?v=16fgzklcF7Y)
 
