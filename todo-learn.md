@@ -73,6 +73,13 @@ A Kubernetes Native Java stack tailored for OpenJDK HotSpot and GraalVM, crafted
 * https://www.graalvm.org/22.1/docs/getting-started/
 
 
+## IDE tools
+Eclipse, Notepad++, geany, VSCode, Netbeans, Intellij, pycharm, eclipse che
+
+https://github.dev/github/dev
+https://docs.github.com/en/codespaces/getting-started/quickstart
+
+
 ## Which Framework to Use
 
 * https://todomvc.com/ - Helping you select an MV* framework
