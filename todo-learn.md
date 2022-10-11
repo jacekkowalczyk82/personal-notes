@@ -76,7 +76,8 @@ A Kubernetes Native Java stack tailored for OpenJDK HotSpot and GraalVM, crafted
 ## IDE tools
 Eclipse, Notepad++, geany, VSCode, Netbeans, Intellij, pycharm, eclipse che
 
-https://github.dev/github/dev
+https://github.dev/github/dev - official ide tool for github.com 
+
 https://docs.github.com/en/codespaces/getting-started/quickstart
 
 
