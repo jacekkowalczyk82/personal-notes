@@ -8,8 +8,8 @@ I am a motorcycle rider.
 
 Here you can find some more info about me:  
 
-https://jacekkowalczyk82.github.io/
-http://jacekkowalczyk.wordpress.com/
-https://www.linkedin.com/in/jacek-kowalczyk-4800644/
-http://www.goldenline.pl/jacek-kowalczyk6
+* https://jacekkowalczyk82.github.io/
+* http://jacekkowalczyk.wordpress.com/
+* https://www.linkedin.com/in/jacek-kowalczyk-4800644/
+* http://www.goldenline.pl/jacek-kowalczyk6
 
